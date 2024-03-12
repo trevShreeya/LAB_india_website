@@ -4,7 +4,7 @@ Our project focuses on developing a front-end system for a specialized e-commerc
 A comprehensive business plan outlines project goals, target market segments, revenue models, and a robust marketing strategy. Emphasis is on user experience, ensuring the platform is user-friendly, informative, and trustworthy. Partnerships with reputable suppliers are established to guarantee product authenticity and quality. 
 Technical aspects, such as domain name selection, reliable hosting, and a robust e-commerce platform, are detailed. Security measures for user data and financial transactions instill confidence. Success hinges on meeting the specific needs of laboratory professionals, offering a one-stop solution. Ongoing adaptation to technology and user feedback is crucial for maintaining relevance and competitiveness in the dynamic laboratory equipment procurement field.
 
-##INTRODUCTION TO PROJECT
+## INTRODUCTION TO PROJECT
 
 In response to the increasing demand for streamlined laboratory equipment procurement in scientific research and education, this project introduces a dedicated e-commerce platform tailored for laboratory professionals. The goal is to create a user-friendly marketplace, facilitating seamless discovery, assessment, and acquisition of a wide range of laboratory equipment by researchers, educators, and institutions. The report outlines the meticulous planning, design, and execution of the platform, emphasizing user experience, security, and functionality. Grounded in comprehensive market research, the project aims to address opportunities and challenges within the niche. The subsequent sections detail the user journey, technical intricacies, and the commitment to ongoing refinement, envisioning a significant impact on the laboratory equipment procurement landscape. 
  
@@ -59,38 +59,38 @@ Advanced analytics tools track user behavior, monitor website performance, and p
 (q)	End: 
 The successful implementation of the e-commerce website establishes it as a comprehensive solution for laboratory equipment procurement. Regular evaluations and updates based on user feedback and market trends ensure ongoing relevance and effectiveness 
 
-##SOFTWARE REQUIREMENTS
+## SOFTWARE REQUIREMENTS
 
 For the front-end system of the specialized e-commerce platform for laboratory equipment, the software requirements may include:
 
-####Web Development Tools:
+#### Web Development Tools:
 HTML, CSS, JavaScript for creating the user interface and interactivity.
-####Front-End Frameworks: 
+#### Front-End Frameworks: 
 Frameworks like React.js, Angular, or Vue.js for efficient development and maintenance of complex UI components.
-####UI Design Tools: 
+#### UI Design Tools: 
 Software like Adobe XD, Sketch, or Figma for designing and prototyping the user interface.
-####Version Control:
+#### Version Control:
 Git for collaboration and version control of codebase.
-####Code Editor: 
+#### Code Editor: 
 IDEs like Visual Studio Code, Sublime Text, or Atom for writing and editing code.
-####Package Managers: 
+#### Package Managers: 
 npm or yarn for managing project dependencies and packages.
-####Responsive Design:
+#### Responsive Design:
 Tools like Bootstrap or CSS Grid for creating responsive layouts compatible with various devices.
-####Browser Developer Tools: 
+#### Browser Developer Tools: 
 Chrome Developer Tools, Firefox Developer Tools, or similar for debugging and optimizing front-end code.
-####Cross-Browser Testing: 
+#### Cross-Browser Testing: 
 Tools like BrowserStack or Sauce Labs for testing compatibility across different browsers.
-####Performance Optimization: 
+#### Performance Optimization: 
 Tools like Lighthouse or WebPageTest for analyzing and improving website performance.
-####Accessibility Tools: 
+#### Accessibility Tools: 
 Tools like Axe or Wave for ensuring accessibility compliance.
-####Integration with Back-End:
+#### Integration with Back-End:
 If applicable, integration with back-end systems using APIs or libraries like Axios for data retrieval and manipulation.
 
 These software requirements will support the development of a robust and user-friendly front-end system for the e-commerce platform, ensuring an optimal user experience for customers browsing and purchasing laboratory equipment.
 
-##RESULT AND DISCUSSION
+## RESULT AND DISCUSSION
 
 Finally, we are coming to our result and discussion part where we are going to show our front-end application, the working way, and the attendance sheet with real-time present data. The following findings have been obtained for the application of face recognition. 
  
@@ -135,7 +135,7 @@ Integrated with inventory management, it ensures real-time updates on availabili
 
 
 
-##CONCLUSION 
+## CONCLUSION 
 In conclusion, our e-commerce platform for laboratory equipment epitomizes a commitment to elevating the user experience and streamlining the procurement process for laboratory professionals. The platform's sophistication is evident in its advanced search function, robust filters, and detailed product pages that offer comprehensive information, including high-resolution images, exhaustive specifications, pricing details, and user reviews.
 
 Personalization is a key focus, with user accounts providing access to order history, Wishlists, and saved favorite items, enhancing the overall user journey. The platform's responsiveness, extending seamlessly from desktops to mobile phones, ensures accessibility across devices, reflecting our dedication to user convenience.
